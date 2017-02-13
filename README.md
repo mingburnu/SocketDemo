@@ -1,0 +1,3 @@
+# SocketDemo
+MAVEN
+JDK7
